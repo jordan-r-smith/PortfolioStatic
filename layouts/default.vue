@@ -1,8 +1,10 @@
 <template>
     <div>
         <nuxt />
-        <div id="backToTop" class="button" v-on:click="moveTo()">
-            <span class="">Back to Top</span>
+        <div id="backToTop" class="button is-large" v-on:click="moveTo()">
+            <span class="icon">
+                <fa :icon="['fas', 'chevron-up']" />
+            </span>
         </div>
     </div>
 </template>

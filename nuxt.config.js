@@ -41,7 +41,8 @@ export default {
         component: 'fa',
         icons: {
             solid: [
-                'faEnvelope'
+                'faEnvelope',
+                'faChevronUp'
             ],
             brands: [
                 'faGithub',
