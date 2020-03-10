@@ -15,7 +15,7 @@
                 <!-- /About -->
 
                 <!-- Social -->
-                <div class="columns social-media">
+                <div class="columns social-media is-mobile">
                     <div class="column">
                         <a href="https://github.com/jordan-r-smith">
                             <fa :icon="['fab', 'github']" class="fa-4x" />
@@ -36,18 +36,24 @@
             </div>
         </section>
 
-        <section class="section container">
-            <showcase />
-        </section>
+        <div v-for="(project, index) in projects" :key="index">
+            <showcase :project="project" />
+        </div>
+
+        
     </div>
 </template>
 
 <script>
 import showcase from "~/components/showcase";
+import projects from "~/data/projects.json";
 
 export default {
     components: {
         showcase
+    },
+    asyncData({ params }) {
+        return { projects };
     }
 };
 </script>
@@ -58,7 +64,7 @@ export default {
     color: #fff;
 }
 
-.title {
+.title.is-1 {
     color: #fff;
 }
 

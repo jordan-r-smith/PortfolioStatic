@@ -1,0 +1,290 @@
+[
+    {
+        "name": "ATForecast Android App",
+        "description": "ATForecast is an open source weather app specifically for shelters and campsites along the Appalachian Trail with the goal of fast load times. You can search via GPS and weather is available to view offline.",
+        "date": "April 2017",
+        "tags": [
+            {
+                "name": "Java",
+                "class": "is-warning"
+            },
+            {
+                "name": "SQLite",
+                "class": "is-danger"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/AT-Forecast-Android"
+            },
+            {
+                "text": "Play Store",
+                "url": "https://play.google.com/store/apps/details?id=com.greensquad.atforecast"
+            }
+        ],
+        "imageSrc": "img/atfandroid.png",
+        "imageLink": "https://play.google.com/store/apps/details?id=com.greensquad.atforecast"
+    },
+    {
+        "name": "ATForecast",
+        "description": "ATForecast.com is an open source weather data aggregator specifically for shelters and campsites along the Appalachian Trail with the goal of fast load times.",
+        "date": "March 2017",
+        "tags": [
+            {
+                "name": "Rails",
+                "class": "is-warning"
+            },
+            {
+                "name": "PostgreSQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/AT-Forecast"
+            },
+            {
+                "text": "Website",
+                "url": "https://www.atforecast.app"
+            }
+        ],
+        "imageSrc": "img/atforecast.png",
+        "imageLink": "https://www.atforecast.app"
+    },
+    {
+        "name": "Xbox.com Enhancement Suite",
+        "description": "This is a Google Chrome extension that adds additional functionality to the Xbox.com Achievement list. This extension allows you to filter achievements based on their locked status as well as searching their names and descriptions.",
+        "date": "May 2015",
+        "tags": [
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/Xbox-Achievement-Enhancement-Suite"
+            }
+        ],
+        "imageSrc": "img/xaes.png",
+        "imageLink": "https://github.com/Green-Squad/Xbox-Achievement-Enhancement-Suite"
+    },
+    {
+        "name": "Smartwatch Picker",
+        "description": "Smartwatch Picker is an app created to allow users to find a smartwatch that fits their needs. It asks the user a series of simple questions and then displays the results to them. The prices are grabbed dynamically using Amazon's API.",
+        "date": "April 2015",
+        "tags": [
+            {
+                "name": "Rails",
+                "class": "is-warning"
+            },
+            {
+                "name": "PostgreSQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/Smartwatch-Picker"
+            },
+            {
+                "text": "Website",
+                "url": "http://smartwatchpicker.herokuapp.com/"
+            }
+        ],
+        "imageSrc": "img/smartwatchpicker.png",
+        "imageLink": "http://smartwatchpicker.herokuapp.com/"
+    },
+    {
+        "name": "Game Loadouts",
+        "description": "Game Loadouts is a portal for finding the best ways to outfit your weapons in your favorite games.",
+        "date": "May 2014",
+        "tags": [
+            {
+                "name": "Laravel",
+                "class": "is-warning"
+            },
+            {
+                "name": "MySQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/Game-Loadouts"
+            },
+            {
+                "text": "Website",
+                "url": "http://www.gameloadouts.com/"
+            }
+        ],
+        "imageSrc": "img/gameloadouts.png",
+        "imageLink": "http://www.gameloadouts.com/"
+    },
+    {
+        "name": "Grind Bucket",
+        "description": "Grind Bucket is a website for finding out what the level cap, top rank, or max points are for your favorite game.",
+        "date": "March 2015",
+        "tags": [
+            {
+                "name": "Rails",
+                "class": "is-warning"
+            },
+            {
+                "name": "PostgreSQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/Grind-Bucket"
+            },
+            {
+                "text": "Website",
+                "url": "http://grindbucket.herokuapp.com/"
+            }
+        ],
+        "imageSrc": "img/grindbucket.png",
+        "imageLink": "http://grindbucket.herokuapp.com/"
+    },
+    {
+        "name": "Release DB",
+        "description": "Release DB lets you find/add/edit any upcoming release dates for various products.",
+        "date": "February 2015",
+        "tags": [
+            {
+                "name": "Rails",
+                "class": "is-warning"
+            },
+            {
+                "name": "PostgreSQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Github",
+                "url": "https://github.com/Green-Squad/Release-DB"
+            },
+            {
+                "text": "Website",
+                "url": "http://releasedb.herokuapp.com/"
+            }
+        ],
+        "imageSrc": "img/releasedb.png",
+        "imageLink": "http://releasedb.herokuapp.com/"
+    },
+    {
+        "name": "Classroom Schedule",
+        "description": "Using this application allows you to search for a classroom's weekly schedule for the current semester.",
+        "date": "January 2015",
+        "tags": [
+            {
+                "name": "Rails",
+                "class": "is-warning"
+            },
+            {
+                "name": "MySQL",
+                "class": "is-danger"
+            },
+            {
+                "name": "JavaScript",
+                "class": "is-link"
+            },
+            {
+                "name": "HTML",
+                "class": "is-link"
+            },
+            {
+                "name": "CSS",
+                "class": "is-link"
+            }
+        ],
+        "links": [
+            {
+                "text": "Demonstration",
+                "url": "https://www.youtube.com/watch?v=5Bg6QYowJJo"
+            },
+            {
+                "text": "Website",
+                "url": "http://classroomschedule.herokuapp.com/"
+            }
+        ],
+        "imageSrc": "img/classroom.png",
+        "imageLink": "http://classroomschedule.herokuapp.com/"
+    }
+]
