@@ -7,7 +7,7 @@
                 </h1>
 
                 <!-- About -->
-                <p>
+                <p class="content">
                     I am a web developer located in Roswell, Georgia and am interested in developing functional and elegant code. I have
                     experience developing applications in Angular, DotNet, Rails, TypeScript, HTML, CSS and Java. You can contact me
                     using any of the links below.

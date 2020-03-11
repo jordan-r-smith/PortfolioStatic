@@ -42,7 +42,8 @@ export default {
         icons: {
             solid: [
                 'faEnvelope',
-                'faChevronUp'
+                'faChevronUp',
+                'faChevronRight'
             ],
             brands: [
                 'faGithub',

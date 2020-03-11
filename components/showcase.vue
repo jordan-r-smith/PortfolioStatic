@@ -20,7 +20,10 @@
                 <p>{{project.description}}</p>
                 <div class="buttons">
                     <template v-for="(link, index) in project.links">
-                        <a class="button is-dark" :href="link.url" :key="index">{{link.text}}</a>
+                        <a class="button is-dark" :href="link.url" :key="index">
+                            <span class="mr-8">{{link.text}}</span>
+                            <fa :icon="['fas', 'chevron-right']" class="fa-xs" />
+                        </a>
                     </template>
                 </div>
             </div>
@@ -40,6 +43,10 @@ export default {
 </script>
 
 <style>
+.mr-8 {
+    margin-right: 8px;
+}
+
 img {
     border: 2px solid #ddd;
     border-radius: 6px;

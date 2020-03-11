@@ -34,11 +34,14 @@ body {
     right: 2rem;
     cursor: pointer;
     color: #ffffff;
-    background: #c1d2e6;
+    background: #7091b9;
     border-radius: 6px;
+    opacity: 0.5;
+    transition: opacity 200ms ease-in;
 }
 
 #backToTop:hover {
     background: #7091b9;
+    opacity: 1;
 }
 </style>
