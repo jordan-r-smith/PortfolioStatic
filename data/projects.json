@@ -122,14 +122,10 @@
             {
                 "text": "Github",
                 "url": "https://github.com/Green-Squad/Smartwatch-Picker"
-            },
-            {
-                "text": "Website",
-                "url": "http://smartwatchpicker.herokuapp.com/"
             }
         ],
         "imageSrc": "img/smartwatchpicker.png",
-        "imageLink": "http://smartwatchpicker.herokuapp.com/"
+        "imageLink": "https://github.com/Green-Squad/Smartwatch-Picker"
     },
     {
         "name": "Game Loadouts",
@@ -161,10 +157,6 @@
             {
                 "text": "Github",
                 "url": "https://github.com/Green-Squad/Game-Loadouts"
-            },
-            {
-                "text": "Website",
-                "url": "http://www.gameloadouts.com/"
             }
         ],
         "imageSrc": "img/gameloadouts.png",
@@ -200,14 +192,10 @@
             {
                 "text": "Github",
                 "url": "https://github.com/Green-Squad/Grind-Bucket"
-            },
-            {
-                "text": "Website",
-                "url": "http://grindbucket.herokuapp.com/"
             }
         ],
         "imageSrc": "img/grindbucket.png",
-        "imageLink": "http://grindbucket.herokuapp.com/"
+        "imageLink": "https://github.com/Green-Squad/Grind-Bucket"
     },
     {
         "name": "Release DB",
@@ -239,14 +227,10 @@
             {
                 "text": "Github",
                 "url": "https://github.com/Green-Squad/Release-DB"
-            },
-            {
-                "text": "Website",
-                "url": "http://releasedb.herokuapp.com/"
             }
         ],
         "imageSrc": "img/releasedb.png",
-        "imageLink": "http://releasedb.herokuapp.com/"
+        "imageLink": "https://github.com/Green-Squad/Release-DB"
     },
     {
         "name": "Classroom Schedule",
@@ -278,13 +262,9 @@
             {
                 "text": "Demonstration",
                 "url": "https://www.youtube.com/watch?v=5Bg6QYowJJo"
-            },
-            {
-                "text": "Website",
-                "url": "http://classroomschedule.herokuapp.com/"
             }
         ],
         "imageSrc": "img/classroom.png",
-        "imageLink": "http://classroomschedule.herokuapp.com/"
+        "imageLink": "https://www.youtube.com/watch?v=5Bg6QYowJJo"
     }
 ]
